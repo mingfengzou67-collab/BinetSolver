@@ -1,0 +1,9 @@
+# MATLAB 自动保存的临时副本
+*.asv
+*.autosave
+
+# MATLAB 生成的中间文件
+*.mat
+*.fig
+*.slxc
+slprj/
